@@ -172,7 +172,6 @@ dr = "west"
 primary-replicas = 2
 dr-replicas = 1
 wait-store-timeout = "1m"
-wait-sync-timeout = "1m"
 ```
 
 在以上配置文件中：
